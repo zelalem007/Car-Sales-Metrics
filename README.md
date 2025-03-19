@@ -8,7 +8,7 @@ The interactive design allows users to filter data by month and explore how diff
 ## Tools Used
 - Excel Pivot Table: For summarizing and exploring trends in car sales data.
 - Power BI: For creating an interactive visualization that presents data insights to in a user-friendly format.
-## **Data Labels:**  
+## Data Labels:  
 - Car_ID: Unique identifier of the car sold.
 - Sales Date: Date on which the sale was completed.
 - Region: Geographical location where the car was sold.
@@ -18,9 +18,11 @@ The interactive design allows users to filter data by month and explore how diff
 - Gender: Gender of the buyer.
 ## Gender Distribution of Buyers
 Using Pivot Tables, I created a breakdown of sale by buyer gender to observe if there is a significant difference in car buying preferences between genders.
-## Key Insight(s)
+## Key Insight
 Understanding gender-based preferences can assist in customizing marketing messages and promotional strategies leading to customer satisfaction and increase in revenue.  
 ## Visualization of Analysis
 ### Pivot Tables
+[To View Tables, Click Here](https://ibb.co/PsWW0Vyx)
 ### Power BI Dashboard
+[Click Here to view Dashboard](https://ibb.co/20rkQg6d)
 ### Chart Analysis

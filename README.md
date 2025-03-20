@@ -22,8 +22,8 @@ Using Pivot Tables, I created a breakdown of sale by buyer gender to observe if 
 Understanding gender-based preferences can assist in customizing marketing messages and promotional strategies leading to customer satisfaction and increase in revenue.  
 ## Visualization of Analysis
 ### Pivot Tables
-[To View Tables, Click here](https://ibb.co/PsWW0Vyx)
+[To View Tables, Click here!](https://ibb.co/PsWW0Vyx)
 ### Power BI Dashboard
-[To view Dashboard, Click here](https://ibb.co/20rkQg6d)
+[To view Dashboard, Click here!](https://ibb.co/20rkQg6d)
 ### Chart Analysis
-[To view Pivot Charts, Click here](https://ibb.co/60R2w36Q)
+[To view Pivot Charts, Click here!](https://ibb.co/60R2w36Q)

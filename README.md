@@ -13,7 +13,7 @@ The interactive design allows users to filter data by month and explore how diff
 - Sales Date: Date on which the sale was completed.
 - Region: Geographical location where the car was sold.
 - Color: Color of the car sold.
-- Income: Incomeof the buyer of the car.
+- Income: Income of the buyer of the car.
 - Revenue: Revenue generated from each sale.
 - Gender: Gender of the buyer.
 ## Gender Distribution of Buyers
